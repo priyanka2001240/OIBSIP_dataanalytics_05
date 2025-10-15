@@ -36,7 +36,7 @@ Model Building & Benchmarking:
 
 Trained and compared four classification models:
 
-Random Forest Classifier 🌲
+Random Forest Classifier 
 
 Logistic Regression
 
